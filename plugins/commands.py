@@ -32,7 +32,7 @@ async def start(c, m, cb=False):
 
 `You can store your Telegram Media for permanent Link!`
 
-
+Donate: https://bit.ly/3FilbWX
 **👲 Maintained By:** {owner.mention(style='md')}
 """
 

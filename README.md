@@ -1,7 +1,7 @@
 
 ![Maxx](https://telegra.ph/file/d651c7b7943a9702f846d.png)
 
-This is a telegram bot helps you to store your files and get the share able permanent link 
+This is a telegram bot helps you to store your files and get the share able permanent link 1 
 
 <a href="https://telegram.dog/FileStore_Nsbot"><img src="https://img.shields.io/badge/Telegram-Bot-blue.svg?logo=telegram"></a>
 [![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes/yellow?icon=github)](https://github.com/Ns-Bots/TG-File-Store)
